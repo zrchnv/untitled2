@@ -1,1 +1,1 @@
-web: python3 main_weather_tg_bot.py
+worker: python3 main_weather_tg_bot.py
