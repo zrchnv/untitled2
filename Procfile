@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app
+web: python main_weather_tg_bot.py
