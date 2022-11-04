@@ -11,7 +11,7 @@
                 <programs>
                     <program>
                         <mainClass>com.home.server.TelegramBot</mainClass>
-                        <name>workerBot</name>
+                        <name>main_weather_tg_bot</name>
                     </program>
                 </programs>
             </configuration>
