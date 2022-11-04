@@ -1,1 +1,7 @@
-
+aiogram
+aiogram.dispatcher
+aiogram.utils
+requests
+datetime
+config
+open_weather_token
