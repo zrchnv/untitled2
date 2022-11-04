@@ -1,1 +1,1 @@
-web: java -jar target/app.jar
+worker: sh target/bin/workerBot
